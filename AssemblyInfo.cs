@@ -1,4 +1,4 @@
-﻿// Assembly DotNet2.Utilities, Version 1.0.5611.19736
+﻿// Assembly System.Utilities, Version 1.0.5611.19736
 
 [assembly: System.Reflection.AssemblyTrademark("")]
 [assembly: System.Runtime.InteropServices.ComVisible(false)]
